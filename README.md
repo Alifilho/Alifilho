@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](Component 1.png)
+![image](https://github.com/Alifilho/Alifilho/blob/master/Component%201.png?raw=true)
 
 <!--
 **Alifilho/Alifilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
