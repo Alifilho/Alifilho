@@ -3,10 +3,8 @@
 
 namespace Alifilho;
 
-class About extends Me
-{
-    public function getCurrentWorkplace()
-    {
+class About extends Me {
+    public function getCurrentWorkplace() {
         return [
             'workplace' => [
                 'company' => 'Retornar',
@@ -15,8 +13,7 @@ class About extends Me
         ];
     }
 
-    public function getDailyKnowledge()
-    {
+    public function getDailyKnowledge() {
         return [
             Typescipt::class
             Javascript::class,
@@ -28,8 +25,7 @@ class About extends Me
         ];
     }
 
-    public function getFutureGoal()
-    {
+    public function getFutureGoal() {
         return 'To contribute to better world.';
     }
 }
