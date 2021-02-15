@@ -29,4 +29,6 @@ class About extends Me {
         return 'To contribute to better world.';
     }
 }
+
+?>
 ```
