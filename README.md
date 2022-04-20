@@ -7,8 +7,8 @@ class About extends Me {
     public function getCurrentWorkplace() {
         return [
             'workplace' => [
-                'company' => 'Retornar',
-                'position' => 'Front-end Developer'         
+                'company' => 'Bankme',
+                'position' => 'Back-end Developer'         
             ]
         ];
     }
