@@ -8,7 +8,7 @@ class About extends Me {
         return [
             'workplace' => [
                 'company' => 'Bankme',
-                'position' => 'Back-end Developer'         
+                'position' => 'Fullstack Developer'         
             ]
         ];
     }
@@ -18,6 +18,7 @@ class About extends Me {
             Typescipt::class
             Javascript::class,
             NodeJS::class,
+            NestJS::class,
             ReactJS::class,
             ReactNative::class,
             Php::class,
