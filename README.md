@@ -4,15 +4,6 @@
 namespace Alifilho;
 
 class About extends Me {
-    public function getCurrentWorkplace() {
-        return [
-            'workplace' => [
-                'company' => 'Bankme',
-                'position' => 'Fullstack Developer'         
-            ]
-        ];
-    }
-
     public function getDailyKnowledge() {
         return [
             Typescipt::class
