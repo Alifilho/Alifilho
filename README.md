@@ -55,7 +55,7 @@ class About extends Me {
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/zny2bjyhdl1l17dr3pcol4f2l?si=8a37ff9b91b145fe)
 <br/>
 ---
 
